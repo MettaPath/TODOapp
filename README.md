@@ -1,2 +1,4 @@
 # TODOapp
-TODO application.
+Exemple TODO application:
+
+https://mettapath.github.io/TODOapp/
